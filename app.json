@@ -1,0 +1,10 @@
+{
+    "name" : "stresstest",
+    "files" : ["../tests/docker.js"],
+    "duration" : 10,
+    "connections" : 1,
+    "pipeline" : 1,
+    "method" : "GET",
+    "timeout" : 30,
+    "headers" : {}
+}

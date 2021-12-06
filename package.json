@@ -1,0 +1,18 @@
+{
+  "name": "stresstest",
+  "repository": {
+    "url": "https://github.com/ajeeshklr/stresstest",
+    "type": ""
+  },
+  "version": "1.0.0",
+  "description": "Load testing framework for restful services and api gateways",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma"
+  },
+  "author": "Ajeesh B Nair",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^4.6.0"
+  }
+}
